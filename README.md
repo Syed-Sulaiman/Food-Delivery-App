@@ -1,0 +1,2 @@
+# Food-Delivery-App
+Food Delivery Web Application is application software that helps users to get food delivered to their doorstep. Food delivery is a service that offers comfort, availability and ease to with its wide range of dishes and restaurants. Management indicates the need of food delivery management to be cared for and monitored, with accountability for and attention to its useful life and condition considered. This is much akin to the role of management in any business.
